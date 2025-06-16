@@ -1,0 +1,58 @@
+.societies-container {
+    max-width: 800px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background: #f9f9f6;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+    text-align: center;
+    line-height: 1.7;
+  }
+  .societies-container strong {
+    color: #2c3e50;
+    font-weight: 700;
+    background-color: #fcefd4;
+    padding: 0 0.2rem;
+    border-radius: 4px;
+  }
+    
+  .societies-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .societies-container h2 {
+    color: #1b4d3e;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .societies-container p {
+    font-size: 1.1rem;
+    margin-bottom: 1.2rem;
+  }
+  
+  .societies-container br {
+    display: none;
+  }
+  
+  @media (max-width: 600px) {
+    .societies-container {
+      padding: 1.5rem;
+    }
+  
+    .societies-container h2 {
+      font-size: 1.5rem;
+    }
+  
+    .societies-container p {
+      font-size: 1rem;
+    }
+  }
+  
+  

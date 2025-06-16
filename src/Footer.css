@@ -1,0 +1,55 @@
+.Footer {
+  background-color: #f5f5f5;
+  padding: 2rem;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  border-top: 1px solid #ddd;
+  color: #333;
+}
+
+.footer-content p {
+  margin: 0.5rem 0;
+}
+
+.footer-socials {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.social-icon {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  transition: opacity 0.3s ease;
+}
+
+.facebook {
+  background-color: #3b5998;
+}
+
+.twitter {
+  background-color: #1da1f2;
+}
+
+.social-icon:hover {
+  opacity: 0.85;
+}
+
+.footer-certification {
+  margin-top: 2rem;
+}
+
+.safegolf-badge {
+  max-width: 120px;
+  display: block;
+  margin: 0 auto 0.5rem;
+}

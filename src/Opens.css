@@ -1,0 +1,56 @@
+.agenda-container {
+    font-family: Arial, sans-serif;
+    background: white;
+    border: 1px solid #777;
+    padding: 1rem;
+    max-height: 1000px;
+    overflow-y: auto;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .agenda-title {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+    color: #3366ff;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.5rem;
+  }
+  
+  .agenda-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .agenda-item {
+    border-bottom: 1px solid #ddd;
+    padding: 0.75rem 0;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+  
+  .agenda-date {
+    flex-shrink: 0;
+    width: 100px;
+    color: #333;
+  }
+  
+  .agenda-time {
+    display: block;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .agenda-details {
+    flex-grow: 1;
+    font-weight: 500;
+    color: #222;
+  }
+  .info-text {
+    font-style: italic;
+    margin-bottom: 0.5rem;
+    color: #555;
+    font-size: 0.9rem;
+  }
