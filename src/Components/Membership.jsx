@@ -79,7 +79,7 @@ function Membership() {
       <h2 className="membership-title">Memberships</h2>
       <div className="why-join-collapsible">
         <details>
-          <summary>▾ Why Join Werneth Golf Club?</summary>
+          <summary>Why Join Werneth Golf Club?</summary>
           <div className="why-join-content">
             <div className="social-highlight-overlay">
               <img
