@@ -15,14 +15,14 @@ function MainPage() {
         </p>
         <p>
           The course is set in <strong>62 acres</strong> of land, which probably makes it one of the 
-          <em>smallest 18-hole courses</em> in the North West. However, <strong>don't be fooled by the size</strong> —
+          <em> smallest 18-hole courses</em> in the North West. However, <strong>don't be fooled by the size</strong> —
           with its <strong>small greens</strong> and <strong>narrow fairways</strong>, it is still a 
           <span className="highlight">testing course</span> for all levels of golfers.
         </p>
         <p>
           After a <em>not-too-exhausting round</em>, you can retire to the clubhouse where 
           <strong>warm Lancashire hospitality</strong> awaits. Renowned for its 
-          <em>friendliness and relaxed atmosphere</em>, you can enjoy a <strong>bar snack or meal</strong> together 
+          <em> friendliness and relaxed atmosphere</em>, you can enjoy a <strong>bar snack or meal</strong> together 
           with a drink from a <strong>well-stocked bar</strong>.
         </p>
         <p>
