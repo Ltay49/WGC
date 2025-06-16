@@ -4,7 +4,7 @@ function MainPage() {
   return (
     <section className="MainPage">
       <div className="main-content">
-        <h1>Welcome to <span className="highlight">Wernerth Golf Club</span></h1>
+        <h1>Welcome to <span className="highlight">Werneth Golf Club</span></h1>
         <p>
           Founded in <strong>1909</strong>, the golf course and clubhouse are located on the south side of 
           <strong> Oldham, Greater Manchester</strong>, in a conservation area known as the <em>Garden Suburb</em>.
